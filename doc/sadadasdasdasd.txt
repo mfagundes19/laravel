@@ -1,0 +1,6 @@
+392036576
+Infowayrs#2022
+
+
+DELETE FROM public.migrations
+	WHERE id IN(64,65,67,67,70,76);

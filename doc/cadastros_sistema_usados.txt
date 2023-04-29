@@ -1,0 +1,10 @@
+Fornecedor
+Operação
+Produto Categoria
+Produto Tipo
+
+Tipo de Vasilhame
+Qualidade da Carga 
+Segregador
+Status Fiscal
+Status de Segragação
