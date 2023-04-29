@@ -1,0 +1,95 @@
+
+/**
+ * CSS
+ **/
+label { font-size: 11px; }
+input,select,textarea { font-size: 11px; line-height: 12px; }
+html { overflow-y: scroll; overflow-x: hidden; background-color: #F4F6F9; font-family: Verdana, Geneva, Tahoma, sans-serif;}
+i { font-size: 14px; margin: 0px; }
+
+/** Table, List **/
+.table-list { font-size: 9px; vertical-align: middle; border: solid 1px #CDCDCD; background: #FEFEFE; }
+.table-list thead { font-size: 10px; font-weight: bold; background-color: #E0E0E0;  }
+.table-list thead tr th { padding: 10px; padding-top: 7px; padding-bottom: 7px; }
+.table-list tbody tr td { vertical-align: middle; padding: 5px; }
+.dropdown-menu-actions { border: 0px; background-color: transparent; box-shadow: none; margin: 0px; padding: 0px;}
+.dropdown-menu-actions li { margin: 5px; margin-top: 1px; margin-bottom: 1px; padding: 0px; }
+.dropdown-menu-actions li button { min-width: 50px; }
+.dropdown-menu-actions li button i { padding-left: 5px; padding-bottom: 5px; }
+
+/** Layout **/
+.row-content-header { padding-bottom: 5px; border-bottom: solid 1px #DEDEDE; }
+.row-content-page { margin-left: 5px; margin-top: 10px; }
+.box-panel-control { text-align: right; }
+.box-panel-research { margin-top: 10px; margin-bottom: 10px; display: block; padding: 15px; padding-bottom: 0px; border-radius: 5px; border: solid 1px #DEDEDE; background-color: #FCFCFC; }
+.label-btn { margin-left: 5px; margin-right: 10px; }
+.btn-icon { padding: 10px !important; padding-top: 5px !important; padding-bottom: 3px !important; margin-bottom: 3px !important; }
+.spacing { width: 100%; height: 20px; }
+.spacer-bar { color: #CDCDCD; margin: 10px; }
+.box-msg-response { padding: 100px; color: #666666; }
+.error-label { color: #FF0000; font-weight: bold; margin-left: 5px; margin-right: 3px; font-size: 12px; }
+.error-element { border: solid 1px #FF0000 !important; }
+.box-form-container { background-color: #FCFCFC; padding-left: 0px !important; padding: 20px !important; border: solid 1px #ECECEC;  padding-bottom: 10px; }
+.box-table-content { padding: 8px !important; padding-top: 0px !important; }
+.block { display: block !important; }
+.hidden { display: none !important; }
+.disabled { background-color: #E9E9E9 !important; }
+
+/** Default **/
+.capitalize { text-transform: capitalize; }
+.lowercase { text-transform: lowercase; }
+.uppercase { text-transform: uppercase; }
+.no-padding { padding: 0px !important; }
+.no-margin { margin: 0px !important; }
+
+.pd-5 { padding: 5px !important;  }
+.pd-10 { padding: 10px !important; }
+.pd-20 { padding: 20px !important;  }
+.pd-30 { padding: 30px !important;  }
+
+.pd-r-5 { padding-right: 5px; }
+.pd-r-10 { padding-right: 10px; }
+.pd-r-20 { padding-right: 20px; }
+.pd-l-5 { padding-left: 5px; }
+.pd-l-10 { padding-left: 10px; }
+.pd-l-20 { padding-left: 20px; }
+.pd-t-5 { padding-top: 5px; }
+.pd-t-10 { padding-top: 10px; }
+.pd-t-15 { padding-top: 15px; }
+.pd-t-20 { padding-top: 20px; }
+.pd-b-5 { padding-bottom: 5px; }
+.pd-b-10 { padding-bottom: 10px; }
+.pd-b-20 { padding-bottom: 20px; }
+.mg-r-5 { margin-right: 5px; }
+.mg-r-10 { margin-right: 10px; }
+.mg-r-20 { margin-right: 20px; }
+.mg-l-5 { margin-left: 5px; }
+.mg-l-10 { margin-left: 10px; }
+.mg-l-20 { margin-left: 20px; }
+.mg-t-5 { margin-top: 5px; }
+.mg-t-10 { margin-top: 10px; }
+.mg-t-20 { margin-top: 20px; }
+.mg-b-5 { margin-bottom: 5px; }
+.mg-b-10 { margin-bottom: 10px; }
+.mg-b-20 { margin-bottom: 20px; }
+.bdr-t { border-top: solid 1px #E9E9E9; }
+.bdr-l { border-left: solid 1px #E9E9E9; }
+.bdr-r { border-right: solid 1px #E9E9E9; }
+.bdr-b { border-bottom: solid 1px #E9E9E9; }
+
+.btn-link { 
+    background-color: #E6E6E6 !important; 
+    color: #333333 !important; 
+    font-weight: bold !important; 
+    text-decoration: none !important; 
+    padding: 3px !important; 
+    padding-left: 15px !important; 
+    padding-right: 15px !important; 
+    border: solid 1px #BCBCBC !important;
+}
+.btn-link:hover {
+    color: #333333 !important; 
+    background-color: #BCBCBC !important; 
+    border: solid 1px #E6E6E6 !important;
+    text-decoration: none !important; 
+}
